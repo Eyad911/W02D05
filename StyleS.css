@@ -1,0 +1,61 @@
+
+
+
+.rawp {
+
+margin: auto;
+margin-top: 20px;
+width: 45%;
+border: 2px solid rgb(149, 105, 192);
+background-color: rgb(206, 158, 123);
+
+}
+
+.addT{
+    
+  padding-top: 10px;
+  padding-left: 100px;
+  
+
+}
+
+
+.butDiv {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+     /* display: flex;
+     justify-content: space-around; */
+}
+.counter {
+
+    padding-top: 10px;
+    /* padding-left: 10px; */
+    text-align: center;
+    
+}
+
+.ulist1 {
+
+    list-style-type: none;
+    /* display: inline-block; */
+}
+
+.ulist {
+    
+    list-style-type: none;
+    /* padding-left: 10px; */
+}
+
+li {
+    /* display: inline-block; */
+    /* display: inline; */
+
+    font-size: 1.9rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text2{
+
+    padding-left: 10px;
+}
